@@ -16,6 +16,6 @@ Tento projekt představuje zařízení pro sledování polohy vozidel a zásilek
 - Platforma ThingsBoard pro vizualizaci
 
 ## 📽️ Ukázka a video
-[Odkaz na videoukázku]([https://www.youtube.com/watch?v=TVa2qgS_Pv8](https://youtu.be/_884BToCRJY)).
+[Odkaz na videoukázku](https://www.youtube.com/watch?v=_884BToCRJY).
 
 
