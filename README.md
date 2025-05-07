@@ -1,4 +1,4 @@
-<h1 align="center">GPS Tracker</h1>
+<h1 align="center">GPS Tracker (BPC-IoT)</h1>
 
 Tento projekt představuje zařízení pro sledování polohy vozidel a zásilek pomocí sítě **NB-IoT**. Zařízení je navrženo jako energeticky úsporné, nezávislé na napájení vozidla a podporuje vzdálenou správu.
 
