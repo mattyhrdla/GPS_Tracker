@@ -15,7 +15,7 @@ Tento projekt představuje zařízení pro sledování polohy vozidel a zásilek
 - Proxy server pro překlad dat
 - Platforma ThingsBoard pro vizualizaci
 
-## 📽️ Ukázka a video
+## 📽️ Videoukázka
 [Odkaz na videoukázku](https://www.youtube.com/watch?v=_884BToCRJY).
 
 
